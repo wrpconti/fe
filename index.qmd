@@ -1,0 +1,23 @@
+---
+title: "UC 6132 - FENÔMENOS ELETROMAGNÉTICOS"
+---
+
+## Sobre a Unidade Curricular (UC)
+
+Os fenômenos eletromagnéticos estão presentes em praticamente todas as tecnologias modernas, desde circuitos elétricos e dispositivos eletrônicos até sistemas de comunicação e equipamentos médicos. Nesta UC serão estudados os conceitos fundamentais da eletricidade e do magnetismo, com ênfase na compreensão dos campos elétricos e magnéticos, do potencial elétrico, dos circuitos elétricos, do magnetismo e da indução eletromagnética, relacionando a teoria às suas aplicações em diferentes áreas da Ciência e da Engenharia.
+
+::: {.callout-note}
+## Informações da oferta
+
+**Horário:** Terças-feiras, das 16h00 às 18h00 (Vespertino), e das 21h00 às 23h00 (Noturno).
+
+**Local:** *Campus* Baixada Santista - Edifício Acadêmico II (Rua Carvalho de Mendonça, 144), sala 2XX.
+
+**Docente Responsável:** William R. P. Conti (wrpconti@unifesp.br).
+:::
+
+::: {.callout-tip}
+## Informação complementar
+
+As listas de exercícios e as notas serão disponibilizadas no Ambiente Virtual de Aprendizagem (AVA) **Moodle**.
+:::

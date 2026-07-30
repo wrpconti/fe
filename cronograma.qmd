@@ -1,0 +1,180 @@
+---
+title: "Cronograma / Materiais"
+---
+
+<div class="table-responsive">
+
+<table class="cronograma-table">
+
+<thead>
+<tr>
+<th>Aula / Evento</th>
+<th>Data</th>
+<th>Conteúdo</th>
+<th>Slides</th>
+<th>Notebook</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr class="evento">
+<td>Congresso Acadêmico</td>
+<td>11/08/2026</td>
+<td>XII Congresso Acadêmico Unifesp</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr class="aula">
+<td>Aula 1</td>
+<td>18/08/2026</td>
+<td>Carga elétrica. Lei de Coulomb. Condutores e isolantes. (19.1-19.4)</td>
+<td>
+<a href="slides/ed-i_secao-1.pdf" target="_blank">
+<span class="badge-pdf">PDF</span>
+</a>
+</td>
+<td>—</td>
+</tr>
+
+<tr class="aula">
+<td>Aula 2</td>
+<td>25/08/2026</td>
+<td>Campo elétrico. Linhas de campo. Movimento de cargas. Dipolos. (19.5-19.8)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 3</td>
+<td>01/09/2026</td>
+<td>Fluxo elétrico. Lei de Gauss e aplicações. (19.9-19.12)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="evento">
+<td>Feriado</td>
+<td>08/09/2026</td>
+<td>Nossa Senhora de Mont Serrat</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr class="aula">
+<td>Aula 4</td>
+<td>15/09/2026</td>
+<td>Potencial elétrico. Energia potencial. Diferença de potencial. (20.1-20.5)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 5</td>
+<td>22/09/2026</td>
+<td>Potencial de condutores. Capacitância. Capacitores. Dielétricos. (20.6-20.10)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 6</td>
+<td>29/09/2026</td>
+<td>Corrente elétrica. Resistência. Lei de Ohm. Potência. (21.1-21.5)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 7</td>
+<td>06/10/2026</td>
+<td>Fontes de FEM. Circuitos. Associação de resistores. Leis de Kirchhoff. Circuitos RC. Atmosfera como condutor. (21.6-21.10)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="prova">
+<td>Prova 1</td>
+<td>13/10/2026</td>
+<td>Avaliação Individual</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr class="aula">
+<td>Aula 8</td>
+<td>20/10/2026</td>
+<td>Campo magnético. Força magnética. Movimento de partículas carregadas. (22.1-22.5)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 9</td>
+<td>27/10/2026</td>
+<td>Torque magnético. Campo produzido por correntes. Lei de Ampère. (22.6-22.9)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 10</td>
+<td>03/11/2026</td>
+<td>Magnetismo na matéria. Aplicações do magnetismo. (22.10-22.11)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 11</td>
+<td>10/11/2026</td>
+<td>Lei de Faraday. Lei de Lenz. FEM induzida. Campos elétricos induzidos. (23.1-23.4)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 12</td>
+<td>17/11/2026</td>
+<td>Indutância. Circuitos RL. Energia armazenada em campos magnéticos. (23.5-23.8)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 13</td>
+<td>24/11/2026</td>
+<td>Corrente de deslocamento. Lei de Ampère generalizada. Equações de Maxwell e ondas eletromagnéticas. (24.1-24.3)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 14</td>
+<td>01/12/2026</td>
+<td>Descobertas de Hertz. Energia e momento das ondas eletromagnéticas. Espectro eletromagnético. Polarização. (24.4-24.8)</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="prova">
+<td>Prova 2</td>
+<td>08/12/2026</td>
+<td>Avaliação Individual</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr class="exame">
+<td>Exame</td>
+<td>15/12/2026</td>
+<td>Exame Final</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+</tbody>
+</table>
+
+</div>

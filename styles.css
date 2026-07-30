@@ -1,0 +1,161 @@
+/* ==========================================================
+   Cronograma da disciplina
+   ========================================================== */
+
+.cronograma-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.cronograma-table th,
+.cronograma-table td {
+  border: 1px solid #dddddd;
+  padding: 12px 14px;
+  text-align: left;
+}
+
+/* ==========================================================
+   Cabeçalho
+   ========================================================== */
+
+.cronograma-table th {
+  background-color: #e9ecef;
+  font-weight: 700;
+}
+
+/* ==========================================================
+   Coluna Conteúdo
+   ========================================================== */
+
+.cronograma-table td:nth-child(3) {
+  font-weight: 600;
+}
+
+/* Dar mais espaço ao conteúdo */
+.cronograma-table td:nth-child(3),
+.cronograma-table th:nth-child(3) {
+  width: 50%;
+}
+
+/* ==========================================================
+   Colunas menos importantes
+   ========================================================== */
+
+.cronograma-table td:nth-child(1),
+.cronograma-table td:nth-child(2) {
+  color: #6c757d;
+}
+
+/* Primeira coluna um pouco mais visível */
+.cronograma-table td:nth-child(1) {
+  color: #495057;
+  font-weight: 500;
+}
+
+/* ==========================================================
+   Slides e Notebook
+   ========================================================== */
+
+.cronograma-table td:nth-child(4),
+.cronograma-table td:nth-child(5),
+.cronograma-table th:nth-child(4),
+.cronograma-table th:nth-child(5) {
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* ==========================================================
+   Tipos de linha
+   ========================================================== */
+
+.aula {
+  background-color: #ffffff;
+}
+
+.evento {
+  background-color: #f5f5f5;
+}
+
+.prova {
+  background-color: #fff8d6;
+}
+
+.exame {
+  background-color: #fde2e2;
+}
+
+/* ==========================================================
+   Hover
+   ========================================================== */
+
+.aula:hover {
+  background-color: #eef6ff;
+}
+
+/* ==========================================================
+   Badges
+   ========================================================== */
+
+.badge-em-breve {
+  background-color: #f1f3f5;
+  color: #6c757d;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.85em;
+}
+
+.badge-pdf {
+  background-color: #d1ecf1;
+  color: #0c5460;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  font-weight: 600;
+}
+
+.badge-notebook {
+  background-color: #d4edda;
+  color: #155724;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  font-weight: 600;
+}
+
+/* ==========================================================
+   Informações da oferta
+   ========================================================== */
+
+.callout.callout-note .callout-body {
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+/* ==========================================================
+   Informação complementar
+   ========================================================== */
+
+.callout.callout-tip .callout-body {
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+/* ==========================================================
+   Links dos materiais
+   ========================================================== */
+
+.cronograma-table a {
+  text-decoration: none;
+}
+
+.cronograma-table a:hover {
+  text-decoration: none;
+}
+
+/* Efeito sutil ao passar o mouse */
+
+.cronograma-table a:hover .badge-pdf,
+.cronograma-table a:hover .badge-notebook {
+  opacity: 0.85;
+}
