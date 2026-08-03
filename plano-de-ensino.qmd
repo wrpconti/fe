@@ -4,28 +4,106 @@ toc: true
 toc-depth: 2
 ---
 
-As informações oficiais da UC serão disponibilizadas nesta página.
+As informações oficiais da UC estão disponibilizadas nesta página.
 
 ## Ementa
 
-Em elaboração.
+Quantização da carga, descrição matemática de força eletrostática, campo e potencial elétrico, capacitância, campo magnético, indução eletromagnética e leis de Maxwell.
 
 ## Conteúdo Programático
 
-Em elaboração.
+- Cargas elétricas.
+
+- Campos elétricos.
+
+- Lei de Gauss.
+
+- Potencial elétrico.
+
+- Capacitância.
+
+- Corrente e resistencia.
+
+- Campos magnéticos.
+
+- Campos magnéticos produzidos por correntes.
+
+- Indução e indutância.
+
+- Oscilações eletromagnéticas.
+
+- Equações de Maxwell.
 
 ## Objetivos
 
-Em elaboração.
+<b>Gerais:</b> Proporcionar ao(à) estudante a compreensão conceitual e formal das leis do eletromagnetismo. Ressaltar a aplicação nos diversos ramos da ciência, como na Biologia, na Química e na Engenharia.
+
+<b>Específicos:</b> O(A) estudante será capaz de:
+
+- compreender os fenômenos elétricos e magnéticos de forma integrada;
+
+- assimilar o significado teórico das leis do eletromagnetismo e suas bases experimentais, concebendo a inter-relação entre teoria e experimento;
+
+- utilizar as leis do eletromagnetismo em aplicações.
 
 ## Metodologia de Ensino
 
-Em elaboração.
+Atividades teóricas, práticas computacionais, leituras dirigidas e listas de exercícios.
 
 ## Avaliação
 
-Em elaboração.
+A avaliação será composta por <b>provas</b>, realizadas em sala de aula (<b>peso de 60%</b>), e <b>listas de exercícios</b>, entregues por meio do Moodle (<b>peso de 40%</b>). As datas das provas estão disponíveis no [cronograma](cronograma.qmd), enquanto os prazos para entrega das listas de exercícios podem ser consultados no [Moodle](https://moodlegrad.unifesp.br/) da UC.
+
+A <b>Nota do Período Letivo (NL)</b> será calculada pela média ponderada dessas avaliações, conforme a expressão a seguir:
+
+<div style="text-align: center; font-weight: bold;">
+NL = 0,6 × (média aritmética das provas) + 0,4 × (média aritmética das listas de exercícios).
+</div>
+
+A aprovação na UC depende do cumprimento simultâneo da <i>frequência mínima</i> e do <i>aproveitamento acadêmico</i>, conforme o Regulamento dos Cursos de Graduação da Unifesp. <b>A frequência mínima exigida é de 75%</b>. <i>O(A) estudante que não cumprir a frequência mínima exigida estará reprovado(a), independentemente da nota obtida</i>.
+
+Para o(a) estudante que cumprir a frequência mínima, o resultado depende da <b>NL</b>:
+
+- se <b>NL &ge; 6,0</b>, o(a) estudante estará <b>aprovado(a)</b> e a nota final será igual a <b>NL</b>;
+
+- se <b>NL < 3,0</b>, o(a) estudante estará <b>reprovado(a) sem direito a exame</b>;
+
+- se <b>3,0 &le; NL &le; 5,9</b>, o(a) estudante <b>terá que se submeter a exame</b>.
+
+A nota final do(a) estudante que tiver de realizar exame será
+
+<div style="text-align: center; font-weight: bold;">
+(NL + nota do exame)/2.
+</div>
+
+O(A) estudante será <b>aprovado(a)</b> se obtiver <b>nota final maior ou igual a 6,0</b>. Caso contrário, será <b>reprovado(a)</b>.
+
+O(A) estudante que não comparecer ao exame receberá nota <b>0,0 (zero)</b>, o que implicará sua reprovação.
 
 ## Bibliografia
 
-Em elaboração.
+<b>Bibliografia Básica:</b>
+
+1. Serway, R. A., & Jr., J.W. J. (2014). Princípios de física vol. 3: Eletromagnetismo – Tradução da 5ª edição norte-americana (3rd ed.). Grupo A.
+📖 [Consultar livro](https://integrada.minhabiblioteca.com.br/books/9788522118069)
+
+2. Halliday, D., Resnick, R., & Walker, J. (2023). Fundamentos de Física - Eletromagnetismo - Volume 3 (12th ed.). Grupo GEN.
+📖 [Consultar livro](https://integrada.minhabiblioteca.com.br/books/9788521638575)
+
+3. Tipler, P. A., & Mosca, G. (2009). Física para Cientistas e Engenheiros - Vol. 2 - Eletricidade e Magnetismo, Ótica, 6ª edição. Grupo GEN.
+📖 [Consultar livro](https://integrada.minhabiblioteca.com.br/books/9788521618935)
+
+<b>Bibliografia Complementar:</b>
+
+1. Nussenzveig, H. M. (2015). Curso de Física básica (3rd ed.). Editora Blucher.
+📖 [Consultar livro](https://integrada.minhabiblioteca.com.br/books/9788521208020)
+
+::: {.callout-tip}
+## Acesso aos livros
+
+Os links da bibliografia direcionam aos respectivos livros na plataforma **Minha Biblioteca**.
+
+**Antes de utilizá-los, é necessário acessar a plataforma institucional da Unifesp e realizar sua autenticação.**
+
+📚 [Acessar a plataforma Minha Biblioteca](https://biblioteca.unifesp.br/login?redirect=minhabiblioteca)
+:::
