@@ -31,7 +31,7 @@ title: "Cronograma / Materiais"
 <td>18/08/2026</td>
 <td>Carga elétrica. Lei de Coulomb. Condutores e isolantes. (19.1-19.4)</td>
 <td>
-<a href="slides/ed-i_secao-1.pdf" target="_blank">
+<a href="slides/fe_aula-1.pdf" target="_blank">
 <span class="badge-pdf">PDF</span>
 </a>
 </td>
