@@ -42,7 +42,11 @@ title: "Cronograma / Materiais"
 <td>Aula 2</td>
 <td>25/08/2026</td>
 <td>Campo elétrico. Linhas de campo. Movimento de cargas. Dipolos. (19.5-19.8)</td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>
+<a href="slides/fe_aula-2.pdf" target="_blank">
+<span class="badge-pdf">PDF</span>
+</a>
+</td>
 <td><span class="badge-em-breve">Em breve</span></td>
 </tr>
 
