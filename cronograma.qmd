@@ -41,7 +41,7 @@ title: "Cronograma / Materiais"
 <tr class="aula">
 <td>Aula 2</td>
 <td>25/08/2026</td>
-<td>Campo elétrico. Linhas de campo. Movimento de cargas. Dipolos. (19.5-19.8)</td>
+<td>Campo elétrico. Linhas de campo. Movimento de cargas. Dipolos. Fluxo elétrico. (19.5-19.8)</td>
 <td>
 <a href="slides/fe_aula-2.pdf" target="_blank">
 <span class="badge-pdf">PDF</span>
@@ -53,7 +53,7 @@ title: "Cronograma / Materiais"
 <tr class="aula">
 <td>Aula 3</td>
 <td>01/09/2026</td>
-<td>Fluxo elétrico. Lei de Gauss e aplicações. (19.9-19.12)</td>
+<td>Lei de Gauss e aplicações. Condutores em equilíbrio eletrostático. (19.9-19.12)</td>
 <td><span class="badge-em-breve">Em breve</span></td>
 <td><span class="badge-em-breve">Em breve</span></td>
 </tr>
