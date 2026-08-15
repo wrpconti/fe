@@ -47,7 +47,11 @@ title: "Cronograma / Materiais"
 <span class="badge-pdf">PDF</span>
 </a>
 </td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>
+<a href="notebooks/fe_aula-2.ipynb" target="_blank">
+<span class="badge-notebook">IPYNB</span>
+</a>
+</td>
 </tr>
 
 <tr class="aula">
