@@ -58,8 +58,12 @@ title: "Cronograma / Materiais"
 <td>Aula 3</td>
 <td>01/09/2026</td>
 <td>Lei de Gauss e aplicações. Condutores em equilíbrio eletrostático. (19.9-19.12)</td>
-<td><span class="badge-em-breve">Em breve</span></td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>
+<a href="slides/fe_aula-1.pdf" target="_blank">
+<span class="badge-pdf">PDF</span>
+</a>
+</td>
+<td>—</td>
 </tr>
 
 <tr class="evento">
