@@ -78,14 +78,18 @@ title: "Cronograma / Materiais"
 <td>Aula 4</td>
 <td>15/09/2026</td>
 <td>Potencial elétrico. Energia potencial. Diferença de potencial. (20.1-20.5)</td>
-<td><span class="badge-em-breve">Em breve</span></td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>
+<a href="slides/fe_aula-4.pdf" target="_blank">
+<span class="badge-pdf">PDF</span>
+</a>
+</td>
+<td>—</td>
 </tr>
 
 <tr class="aula">
 <td>Aula 5</td>
 <td>22/09/2026</td>
-<td>Potencial de condutores. Capacitância. Capacitores. Dielétricos. (20.6-20.10)</td>
+<td>Potencial de condutores. Capacitância. Capacitores. Dielétricos. Atmosfera como capacitor. (20.6-20.11)</td>
 <td><span class="badge-em-breve">Em breve</span></td>
 <td><span class="badge-em-breve">Em breve</span></td>
 </tr>
