@@ -114,8 +114,12 @@ title: "Cronograma / Materiais"
 <td>Aula 7</td>
 <td>06/10/2026</td>
 <td>Fontes de FEM. Circuitos. Associação de resistores. Leis de Kirchhoff. Circuitos RC. Atmosfera como condutor. (21.6-21.10)</td>
-<td><span class="badge-em-breve">Em breve</span></td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>
+<a href="slides/fe_aula-7.pdf" target="_blank">
+<span class="badge-pdf">PDF</span>
+</a>
+</td>
+<td>—</td>
 </tr>
 
 <tr class="prova">
