@@ -145,9 +145,13 @@ title: "Cronograma / Materiais"
 <tr class="aula">
 <td>Aula 9</td>
 <td>27/10/2026</td>
-<td>Torque magnético. Campo produzido por correntes. Lei de Ampère. (22.6-22.9)</td>
-<td><span class="badge-em-breve">Em breve</span></td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>Torque magnético. Campo produzido por correntes. Lei de Biot-Savart. Lei de Ampère. (22.6-22.9)</td>
+<td>
+<a href="slides/fe_aula-9.pdf" target="_blank">
+<span class="badge-pdf">PDF</span>
+</a>
+</td>
+<td>—</td>
 </tr>
 
 <tr class="aula">
