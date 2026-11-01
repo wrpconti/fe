@@ -159,7 +159,7 @@ title: "Cronograma / Materiais"
 <td>03/11/2026</td>
 <td>Magnetismo na matéria. Aplicações do magnetismo. (22.10-22.11)</td>
 <td>
-<a href="slides/fe_aula-9.pdf" target="_blank">
+<a href="slides/fe_aula-10.pdf" target="_blank">
 <span class="badge-pdf">PDF</span>
 </a>
 </td>
