@@ -182,8 +182,12 @@ title: "Cronograma / Materiais"
 <td>Aula 12</td>
 <td>17/11/2026</td>
 <td>Indutância. Circuitos RL. Energia armazenada em campos magnéticos. (23.5-23.8)</td>
-<td><span class="badge-em-breve">Em breve</span></td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>
+<a href="slides/fe_aula-12.pdf" target="_blank">
+<span class="badge-pdf">PDF</span>
+</a>
+</td>
+<td>—</td>
 </tr>
 
 <tr class="aula">
